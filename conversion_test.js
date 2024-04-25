@@ -1,4 +1,4 @@
-"use strict";
+
 let a = "101.1";
 let b = "55";
 let c = "402 stevens";
@@ -14,3 +14,5 @@ console.log('Number: '+Number(a), Number(b), Number(c), Number(d));
 
 // convert using urinary
 console.log('urinary: '+ +a, +b, +c, +d);
+
+
