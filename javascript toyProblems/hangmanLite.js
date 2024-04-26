@@ -12,7 +12,7 @@ if(word.match(letter)){
     console.log('Nope, that letter doesn\'t exist in my word.')
 
  }
-// let str = 'you smell really bad'
+// let str = 'you are awsome'
 // let exp = /[y,o,b,d]/gi
 // let match = str.match(exp)
 // console.log(match.length);
